@@ -1,0 +1,32 @@
+
+
+div{
+    background-color:rgb(143, 255, 45);
+    color: rgb(45, 82, 216);
+    color: rgb(0, 0, 0);
+    height: 690px;
+    width: 100%;
+    margin-top: 20px;
+    }
+.this{
+    height: 300px;
+    font-size: 90px;
+}
+h1{
+    margin: 0px;
+}
+.btn1{
+    background-color:rgb(3, 7, 3);
+    border-radius: 50px;
+    width: 200px;
+    height: 50px;
+    border:hidden;
+    color: white;
+}
+body{
+    background-color: black;
+}
+
+
+
+
